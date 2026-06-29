@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0103/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 籟紀敘夫一元上始無聲臭也二氣方析斯喘動哉是以乾坤畫而風雷至往復定而律呂存人肖玄樞耳為感際故聆虛器則潮震語空山則谷應蓋有形斯氣有氣斯響靡往弗充接之在有也豫遭變故以來骨肉奄已漂淪氣焰頓乎消歇裸將京邑夢寐丘陵既慚瓜美青門秪哭黍離白下故雖強對妻孥都非舊態行坐臥起觸耳成悲古人云樂一也喜者聽之喜悲者聽之悲豈靈造之變更亦人心之遷適也爰取莊子三籟之義嗣采史傳八風之言附諸有聲彙為一策將以上胤麥秀之音下攄離騷之感冀同遇者之覽觀非敢語于中和之君子矣
+  hash: sha256:e9747ab835e9992edce62b0b2285fa3bb4d15d66aa8c274cf0c0b30420d7f57d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3h0103_CHANT_001-1a.1-h}
+metadata:
+  title: 籟紀三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3h0103.xml
+hash: sha256:137c38d7606cdf1936be5acc4adae554953d3ff73683fa11872be172a24c586d

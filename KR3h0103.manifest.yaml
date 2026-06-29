@@ -1,0 +1,73 @@
+canonical_identifier: bkk:krp/KR3h0103/v1
+canonical_location: https://kanripo.org/bkk/KR3h0103/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 籟紀三卷
+  identifiers:
+    krp: KR3h0103
+  tags:
+    kr-categories: KR3h
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3h0103.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3h0103_001.yaml, hash: 'sha256:137c38d7606cdf1936be5acc4adae554953d3ff73683fa11872be172a24c586d'}
+  - {seq: 2, filename: KR3h0103_002.yaml, hash: 'sha256:08b9989c9cb713b8ef7199d9e23bd61a3124b5bbabdda1fb404cb745858b31b7'}
+  - {seq: 3, filename: KR3h0103_003.yaml, hash: 'sha256:d043fe4e3f655512dbc02780f1ef77bfbce7ebe8e7776a4f04fe1213b83407be'}
+  - {seq: 4, filename: KR3h0103_004.yaml, hash: 'sha256:d1d69c3243357edd222174eedefca2fd9f21057d21b6c6c293994989b3e564ad'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3h0103_001.markers.yaml, hash: 'sha256:052095ad7f8ca783fb6f22844b61f7c62cf99d1c57878bde3a5713f1ffb51661'}
+  - {seq: 2, role: markers, filename: assets/KR3h0103_002.markers.yaml, hash: 'sha256:352edc0b867bfc41dbfe6cc80e5c0f9027fad2eb3d4b108f031c86bf31f380fd'}
+  - {seq: 3, role: markers, filename: assets/KR3h0103_003.markers.yaml, hash: 'sha256:38227e3c8c57a8895c2b4ebe6fb516be8b65361248fb082bf42cceccc7e67cf7'}
+  - {seq: 4, role: markers, filename: assets/KR3h0103_004.markers.yaml, hash: 'sha256:b8a9da164eec39a559f799ed810b6d3b2a7f10b24ff3ea0d205270be7ea77afc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3h0103_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 215
+  label: 籟紀敘
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3h0103_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 1093
+  label: 籟紀天籟卷之上
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3h0103_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 1084
+  label: 籟紀天籟卷之中
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3h0103_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 912
+  label: 籟紀天籟卷之下
+  type: section
+  level: 1
+hash: sha256:491894d528653f9743b33e0f62b93971fb395ddeaf7497c4bddb9c97480773ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
